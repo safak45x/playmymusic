@@ -1,15 +1,15 @@
 # Turkish translations for com.github.artemanufrij.playmymusic package.
 # Copyright (C) 2019 THE com.github.artemanufrij.playmymusic'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the com.github.artemanufrij.playmymusic package.
-# Automatically generated, 2019.
+# Safak Genisol, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: com.github.artemanufrij.playmymusic\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 10:59+0200\n"
-"PO-Revision-Date: 2019-04-14 17:24+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2020-02-28 17:24+0300\n"
+"Last-Translator: Safak Genisol (@safak45x)\n"
 "Language-Team: none\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -19,284 +19,284 @@ msgstr ""
 
 #: src/MainWindow.vala:110
 msgid "Synchronizing library"
-msgstr ""
+msgstr "Kitaplığı senkronize et"
 
 #: src/MainWindow.vala:136
 msgid "Pause"
-msgstr ""
+msgstr "Durdur"
 
 #: src/MainWindow.vala:156 src/MainWindow.vala:282
 msgid "Melody"
-msgstr ""
+msgstr "Melody"
 
 #: src/MainWindow.vala:162 src/MainWindow.vala:388
 msgid "Play"
-msgstr ""
+msgstr "Oynat"
 
 #: src/MainWindow.vala:338
 msgid "Loading…"
-msgstr ""
+msgstr "Yükleniyor…"
 
 #: src/MainWindow.vala:338
 msgid "Reading out database content"
-msgstr ""
+msgstr "Veritabanı içeriğini okuma"
 
 #: src/MainWindow.vala:378
 msgid "Previous"
-msgstr ""
+msgstr "Önceki"
 
 #: src/MainWindow.vala:397
 msgid "Next"
-msgstr ""
+msgstr "Sonraki"
 
 #: src/MainWindow.vala:415 src/MainWindow.vala:1015
 msgid "Shuffle On"
-msgstr ""
+msgstr "Karışık Açık"
 
 #: src/MainWindow.vala:418 src/MainWindow.vala:1018
 msgid "Shuffle Off"
-msgstr ""
+msgstr "Karışık Kapalı"
 
 #: src/MainWindow.vala:452
 msgid "Albums"
-msgstr ""
+msgstr "Albümler"
 
 #: src/MainWindow.vala:456
 msgid "Artists"
-msgstr ""
+msgstr "Artistler"
 
 #: src/MainWindow.vala:461
 msgid "Tracks"
-msgstr ""
+msgstr "Parçalar"
 
 #: src/MainWindow.vala:466
 msgid "Playlists"
-msgstr ""
+msgstr "Çalma Listesi"
 
 #: src/MainWindow.vala:471
 msgid "Radio Stations"
-msgstr ""
+msgstr "Radya İstasyonu"
 
 #: src/MainWindow.vala:478
 msgid "Audio CD"
-msgstr ""
+msgstr "Audio CD"
 
 #: src/MainWindow.vala:538
 msgid "Menu"
-msgstr ""
+msgstr "Menü"
 
 #: src/MainWindow.vala:544
 msgid "Change Music Folder…"
-msgstr ""
+msgstr Müzik Klasörünü Değiştir…""
 
 #: src/MainWindow.vala:553
 msgid "Import Music…"
-msgstr ""
+msgstr "Müziği İçe Aktar…"
 
 #: src/MainWindow.vala:561
 msgid "Reset all views"
-msgstr ""
+msgstr "Tüm Görünümleri Sıfırla"
 
 #: src/MainWindow.vala:567
 msgid "Resync Library"
-msgstr ""
+msgstr "Yeniden Eşleşme Kitaplığı"
 
 #: src/MainWindow.vala:572
 msgid "Sort by"
-msgstr ""
+msgstr "Göre sırala"
 
 #: src/MainWindow.vala:575
 msgid "Artist - Year - Album"
-msgstr ""
+msgstr "Artist - Yıl - Albüm"
 
 #: src/MainWindow.vala:576
 msgid "Album - Artist"
-msgstr ""
+msgstr "Albüm - Artist"
 
 #: src/MainWindow.vala:577
 msgid "Artist - Album"
-msgstr ""
+msgstr "Artist - Albüm"
 
 #: src/MainWindow.vala:600 src/Dialogs/Preferences.vala:54
 msgid "Preferences"
-msgstr ""
+msgstr "Tercihler"
 
 #: src/MainWindow.vala:634
 msgid "Light background"
-msgstr ""
+msgstr "Açık Renkli"
 
 #: src/MainWindow.vala:635
 msgid "Dark background"
-msgstr ""
+msgstr "Koyu Renkli"
 
 #: src/MainWindow.vala:646
 msgid "Search Music"
-msgstr ""
+msgstr "Müzik Arama"
 
 #: src/MainWindow.vala:696
 msgid "Queue"
-msgstr ""
+msgstr "Kuyruk"
 
 #: src/MainWindow.vala:806 src/MainWindow.vala:814
 #: src/Widgets/Views/TracksView.vala:435
 #, c-format
 msgid "<b>%s</b> by <b>%s</b>"
-msgstr ""
+msgstr "<b>%s</b> by <b>%s</b>"
 
 #: src/MainWindow.vala:998
 msgid "Repeat All"
-msgstr ""
+msgstr "Tümünü Tekrarla"
 
 #: src/MainWindow.vala:1002
 msgid "Repeat One"
-msgstr ""
+msgstr "Birini Tekrarla"
 
 #: src/MainWindow.vala:1006
 msgid "Repeat Off"
-msgstr ""
+msgstr "Tekrarlama Kapalı"
 
 #: src/Dialogs/AlbumEditor.vala:83 src/Dialogs/ArtistEditor.vala:82
 #: src/Widgets/Views/RadiosView.vala:146
 msgid "Click to choose a new cover…"
-msgstr ""
+msgstr "Yeni bir kapak seçmek için tıklayın…"
 
 #: src/Dialogs/AlbumEditor.vala:110
 msgid "Year"
-msgstr ""
+msgstr "Yıl"
 
 #: src/Dialogs/AlbumEditor.vala:121 src/Dialogs/ArtistEditor.vala:114
 #: src/Widgets/Views/RadiosView.vala:231
 msgid "Save"
-msgstr ""
+msgstr "Kayıt Etmek"
 
 #: src/Dialogs/Preferences.vala:94
 msgid "Play in background if closed"
-msgstr ""
+msgstr "Arkaplanda oynatma kapalı"
 
 #: src/Dialogs/Preferences.vala:96
 msgid "Sync files on start up"
-msgstr ""
+msgstr "Başlangıçta dosyaları senkronize et"
 
 #: src/Dialogs/Preferences.vala:99
 msgid "Load Content from MusicBrainz"
-msgstr ""
+msgstr "MusicBrainz'den İçerik Yükleme"
 
 #: src/Dialogs/Preferences.vala:101
 msgid "Save custom Covers in Library folder"
-msgstr ""
+msgstr "Özel Kapakları Kütüphane klasörüne kaydet"
 
 #: src/Dialogs/Preferences.vala:103
 msgid "Save changes into ID3-Tag"
-msgstr ""
+msgstr "Değişiklikleri şuraya kaydet:ID3-Tag"
 
 #: src/Dialogs/Preferences.vala:106
 msgid "Copy Imported Files into Library"
-msgstr ""
+msgstr "İçe Aktarılan Dosyaları Kitaplığa Kopyala"
 
 #: src/Dialogs/Preferences.vala:108
 msgid "Remove Playlist if last Track was removed"
-msgstr ""
+msgstr "Son Parça kaldırılmışsa Oynatma Listesini Kaldır"
 
 #: src/Dialogs/Preferences.vala:111
 msgid "Remember Track progress"
-msgstr ""
+msgstr "İlerleyen Parçayı hatırlat"
 
 #: src/Dialogs/Preferences.vala:116
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: src/Objects/AudioCD.vala:67 src/Objects/AudioCD.vala:68
 #: src/Services/TagManager.vala:48
 msgid "Unknown"
-msgstr ""
+msgstr "Bilinmeyen"
 
 #: src/Objects/AudioCD.vala:105
 #, c-format
 msgid "Track %d"
-msgstr ""
+msgstr "Parça %d"
 
 #: src/Objects/MobilePhone.vala:45
 msgid "No Music Files found"
-msgstr ""
+msgstr "Müzik Dosyası bulunamadı"
 
 #: src/Objects/MobilePhoneMusicFolder.vala:86
 msgid "deleting…"
-msgstr ""
+msgstr "siliniyor…"
 
 #: src/Services/LibraryManager.vala:318
 msgid "New Playlist"
-msgstr ""
+msgstr "Yeni Çalma Listesi"
 
 #: src/Services/LibraryManager.vala:350 src/Services/LibraryManager.vala:446
 msgid "Choose an image…"
-msgstr ""
+msgstr "Bir resim seçin…"
 
 #: src/Services/LibraryManager.vala:352 src/Services/LibraryManager.vala:448
 #: src/Services/LibraryManager.vala:490 src/Services/LibraryManager.vala:511
 msgid "_Cancel"
-msgstr ""
+msgstr "_iptal"
 
 #: src/Services/LibraryManager.vala:353
 msgid "_Save"
-msgstr ""
+msgstr "_Kaydet"
 
 #: src/Services/LibraryManager.vala:356 src/Services/LibraryManager.vala:494
-msgid "Playlist (.m3u)"
-msgstr ""
+msgid "Playlist (.m3u) "
+msgstr "Çalma Listesi (.m3u)"
 
 #: src/Services/LibraryManager.vala:449 src/Services/LibraryManager.vala:491
 #: src/Services/LibraryManager.vala:512
 msgid "_Open"
-msgstr ""
+msgstr "_Aç"
 
 #: src/Services/LibraryManager.vala:452
 msgid "Images"
-msgstr ""
+msgstr "Resimler"
 
 #: src/Services/LibraryManager.vala:488
 msgid "Choose a playlist…"
-msgstr ""
+msgstr "Bir oynatma listesi seçin…"
 
 #: src/Services/LibraryManager.vala:510
 msgid "Select a folder."
-msgstr ""
+msgstr "Bir klasör seçin"
 
 #: src/Services/LibraryManager.vala:515
 msgid "Folder"
-msgstr ""
+msgstr "Klasör"
 
 #: src/Widgets/Album.vala:200 src/Widgets/Artist.vala:188
 #: src/Widgets/Views/AlbumView.vala:65 src/Widgets/Views/AudioCDView.vala:98
 msgid "Set new Cover…"
-msgstr ""
+msgstr "Yeni Kapak ayarla…"
 
 #: src/Widgets/Album.vala:218
 msgid "Edit Album properties…"
-msgstr ""
+msgstr "Albüm Özelliklerini Düzenle…"
 
 #: src/Widgets/Album.vala:225 src/Widgets/Track.vala:230
 #: src/Widgets/Views/TracksView.vala:348
 msgid "Add into Playlist"
-msgstr ""
+msgstr "Çalma Listesine Ekle"
 
 #: src/Widgets/Album.vala:230 src/Widgets/Artist.vala:213
 #: src/Widgets/Track.vala:248
 msgid "Send to"
-msgstr ""
+msgstr "Gönder"
 
 #: src/Widgets/Album.vala:256 src/Widgets/Track.vala:264
 #: src/Widgets/Views/TracksView.vala:303
 msgid "Create New Playlist"
-msgstr ""
+msgstr "Yeni Çalma Listesi Olustur"
 
 #: src/Widgets/Album.vala:305 src/Widgets/Artist.vala:260
 #, c-format
 msgid "Merge %u selected Albums"
-msgstr ""
+msgstr "Artist özelliklerini düzenle…"
 
 #: src/Widgets/Artist.vala:206
 msgid "Edit Artist properties…"
-msgstr ""
+msgstr "Artist özelliklerini düzenle…"
 
 #: src/Widgets/Playlist.vala:46
 #, c-format
@@ -305,27 +305,27 @@ msgstr ""
 
 #: src/Widgets/Playlist.vala:134
 msgid "Rename"
-msgstr ""
+msgstr "Yeniden Adlandır"
 
 #: src/Widgets/Playlist.vala:155
 msgid "Rename Playlist"
-msgstr ""
+msgstr "Çalma Listesini Yeniden Adlandır"
 
 #: src/Widgets/Playlist.vala:163
 msgid "Remove Playlist"
-msgstr ""
+msgstr "Çalma Listesini Kaldır"
 
 #: src/Widgets/Playlist.vala:171
 msgid "Export Playlist…"
-msgstr ""
+msgstr "Çalma Listesini Dışa Aktar…"
 
 #: src/Widgets/Radio.vala:95
 msgid "Edit Radio Station…"
-msgstr ""
+msgstr "Radyo İstasyonunu Düzenle…"
 
 #: src/Widgets/Radio.vala:103
 msgid "Remove Radio Station"
-msgstr ""
+msgstr "Radyo İstasyonunu Kaldır"
 
 #: src/Widgets/Track.vala:68
 #, c-format
@@ -336,188 +336,188 @@ msgstr ""
 
 #: src/Widgets/Track.vala:211 src/Widgets/Views/TracksView.vala:330
 msgid "Add to Queue"
-msgstr ""
+msgstr "Kuyruk Ekle"
 
 #: src/Widgets/Track.vala:234
 msgid "Remove from Playlist"
-msgstr ""
+msgstr "Çalma Listesinden Kaldır"
 
 #: src/Widgets/Track.vala:236
 msgid "Remove from Queue"
-msgstr ""
+msgstr "Kuyruktan Kaldır"
 
 #: src/Widgets/TrackTimeLine.vala:95 src/Widgets/TrackTimeLine.vala:99
 #, c-format
 msgid "<b>%s</b> from <b>%s</b> by <b>%s</b>"
-msgstr ""
+msgstr "<b>%s</b> from <b>%s</b> by <b>%s</b"
 
 #: src/Widgets/Views/AlbumsView.vala:122
 msgid "Get Some Tunes"
-msgstr ""
+msgstr "Bazı Müzikler Alın"
 
 #: src/Widgets/Views/AlbumsView.vala:122
 msgid "Add music to your library."
-msgstr ""
+msgstr "Kütüphanenize müzik ekleyin"
 
 #: src/Widgets/Views/AlbumsView.vala:123
 msgid "Change Music Folder"
-msgstr ""
+msgstr "Müzik Klasörünü Değiştir"
 
 #: src/Widgets/Views/AlbumsView.vala:123
 msgid "Load music from a folder, a network or an external disk."
-msgstr ""
+msgstr "Bir klasörden, ağdan veya harici diskten müzik yükleyin."
 
 #: src/Widgets/Views/AlbumsView.vala:124
 msgid "Import Music"
-msgstr ""
+msgstr "Müziği İçe Aktar"
 
 #: src/Widgets/Views/AlbumsView.vala:124
 msgid "Import music from a source into your library."
-msgstr ""
+msgstr "Bir kaynaktan kitaplığınıza müzik aktarın."
 
 #: src/Widgets/Views/AlbumsView.vala:143 src/Widgets/Views/ArtistsView.vala:110
 #: src/Widgets/Views/PlaylistsView.vala:159
 #: src/Widgets/Views/RadiosView.vala:194
 msgid "No results"
-msgstr ""
+msgstr "Sonuç yok"
 
 #: src/Widgets/Views/AlbumsView.vala:143 src/Widgets/Views/ArtistsView.vala:110
 #: src/Widgets/Views/PlaylistsView.vala:159
 #: src/Widgets/Views/RadiosView.vala:194
 msgid "Try another search"
-msgstr ""
+msgstr "Başka bir arama yapmayı deneyin"
 
 #: src/Widgets/Views/ArtistView.vala:110
 msgid "Choose an Artist"
-msgstr ""
+msgstr "Bir Artist Seçin"
 
 #: src/Widgets/Views/ArtistView.vala:110
 msgid "No Artist selected"
-msgstr ""
+msgstr "Hicbir Artist seçilmedi"
 
 #: src/Widgets/Views/ArtistView.vala:163
 #, c-format
 msgid "<b>%d Tracks</b> in <b>%d Album</b>(s)"
-msgstr ""
+msgstr "<b>%d Parça</b> in <b>%d Albüm</b"
 
 #: src/Widgets/Views/MobilePhone.vala:81
 msgid "Enable MTP on your mobile phone"
-msgstr ""
+msgstr "Cep telefonunuzda MTP'yi etkinleştirin"
 
 #: src/Widgets/Views/MobilePhone.vala:108
 msgid "Hide Mobile Panel"
-msgstr ""
+msgstr "Mobil Paneli Gizle"
 
 #: src/Widgets/Views/PlaylistsView.vala:94
 msgid "Add a playlist"
-msgstr ""
+msgstr "Çalma Listesi Ekle"
 
 #: src/Widgets/Views/PlaylistsView.vala:104
 #: src/Widgets/Views/PlaylistsView.vala:141
 msgid "Import Playlist"
-msgstr ""
+msgstr "Çalma Listesini İçe Aktar"
 
 #: src/Widgets/Views/PlaylistsView.vala:119
 #: src/Widgets/Views/RadiosView.vala:229
 msgid "Add"
-msgstr ""
+msgstr "Ekle"
 
 #: src/Widgets/Views/PlaylistsView.vala:139
 msgid "No Playlists"
-msgstr ""
+msgstr "Çalma Listesi Yok"
 
 #: src/Widgets/Views/PlaylistsView.vala:139
 msgid "Add playlist to your library."
-msgstr ""
+msgstr "Çalma listesini kitaplığınıza ekleyin"
 
 #: src/Widgets/Views/PlaylistsView.vala:140
 msgid "Create Playlist"
-msgstr ""
+msgstr "Çalma Listesi Oluştur"
 
 #: src/Widgets/Views/PlaylistsView.vala:140
 msgid "Create a playlist for manage your favorite songs."
-msgstr ""
+msgstr "En sevdiğiniz şarkıları yönetmek için bir çalma listesi oluşturun"
 
 #: src/Widgets/Views/PlaylistsView.vala:141
 msgid "Import .m3u formated Playlist."
-msgstr ""
+msgstr ".m3u biçimli Çalma Listesini İçe Aktar"
 
 #: src/Widgets/Views/Queue.vala:74
 msgid "Clear the Queue"
-msgstr ""
+msgstr "Kuyruğu Temizle"
 
 #: src/Widgets/Views/Queue.vala:84
 msgid "Create new Playlist based on this Queue"
-msgstr ""
+msgstr "Bu Kuyruğa dayalı yeni Çalma Listesi oluştur"
 
 #: src/Widgets/Views/Queue.vala:89 src/Widgets/Views/Queue.vala:104
 #, c-format
 msgid "Queue from %s"
-msgstr ""
+msgstr "Kuyruk kaynağı %s"
 
 #: src/Widgets/Views/Queue.vala:100
 msgid "Export Queue…"
-msgstr ""
+msgstr "Kuyruğu Dışa Aktar…"
 
 #: src/Widgets/Views/Queue.vala:118
 msgid "Queue is empty"
-msgstr ""
+msgstr "Kuyruk boş"
 
 #: src/Widgets/Views/RadiosView.vala:110
 msgid "Add a radio station"
-msgstr ""
+msgstr "Radyo İstasyonu ekle"
 
 #: src/Widgets/Views/RadiosView.vala:120
 msgid "Station Name"
-msgstr ""
+msgstr "İstasyon İsmi"
 
 #: src/Widgets/Views/RadiosView.vala:127
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: src/Widgets/Views/RadiosView.vala:177
 msgid "No Radio Stations"
-msgstr ""
+msgstr "Radyo İstastonu Yok"
 
 #: src/Widgets/Views/RadiosView.vala:177
 msgid "Add radio stations to your library."
-msgstr ""
+msgstr "Radyo istasyonlarını kitaplığınıza ekleyin"
 
 #: src/Widgets/Views/RadiosView.vala:178
 msgid "Add Radio Station"
-msgstr ""
+msgstr "Radyo İstasyonu Ekle"
 
 #: src/Widgets/Views/RadiosView.vala:178
 msgid "Add a Stream URL like .pls or .m3u."
-msgstr ""
+msgstr ".pls veya .m3u gibi bir yayın URL'si ekleyin "
 
 #: src/Widgets/Views/TracksView.vala:56 src/Widgets/Views/TracksView.vala:186
 msgid "Nr"
-msgstr ""
+msgstr "Nr"
 
 #: src/Widgets/Views/TracksView.vala:56 src/Widgets/Views/TracksView.vala:193
 msgid "Title"
-msgstr ""
+msgstr "Başlık"
 
 #: src/Widgets/Views/TracksView.vala:56 src/Widgets/Views/TracksView.vala:200
 msgid "Album"
-msgstr ""
+msgstr "Albüm"
 
 #: src/Widgets/Views/TracksView.vala:56 src/Widgets/Views/TracksView.vala:202
 msgid "Artist"
-msgstr ""
+msgstr "Artist"
 
 #: src/Widgets/Views/TracksView.vala:56 src/Widgets/Views/TracksView.vala:207
 msgid "Duration"
-msgstr ""
+msgstr "Süre"
 
 #: src/Widgets/Views/TracksView.vala:165
 msgid "Choose a Track"
-msgstr ""
+msgstr "Bir Parça Seçin"
 
 #: src/Widgets/Views/TracksView.vala:165
 msgid "No track selected"
-msgstr ""
+msgstr "Hiçbir parça seçilmedi"
 
 #: src/Widgets/Views/TracksView.vala:351
 msgid "Columns Visibility"
@@ -526,3 +526,7 @@ msgstr ""
 #: src/Widgets/Views/TracksView.vala:384
 msgid "You can't hide all columns"
 msgstr ""
+
+
+
+
